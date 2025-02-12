@@ -911,3 +911,14 @@ h3.my-profession
 {
     background: #f021b2;
 }
+.view-code-link{
+    cursor: pointer;
+    opacity: 0.5;
+    font-weight: bold;
+}
+.view-code-link:hover{
+    opacity: 0.9;
+   font-style: italic;
+   color: red !important;
+}
+
