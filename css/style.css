@@ -666,6 +666,7 @@ h3.my-profession
 .contact .contact-info-item .icon
 {
     display: inline-block;
+    margin-top: 40px;
 }
 .contact .contact-info-item .icon .fa
 {
@@ -678,7 +679,7 @@ h3.my-profession
     font-weight: 700;
     color: var(--text-black-900);
     text-transform: capitalize;
-    margin: 15px 0 5px;
+    margin: 20px 0 5px;
 }
 .contact .contact-info-item p
 {
